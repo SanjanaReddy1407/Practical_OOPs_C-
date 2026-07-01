@@ -3,7 +3,7 @@
 ## Program to implement concept of class and object.
 
 # Theory
-1. Class: A Class is a user-defined data type that acts as a blueprint for creating objects. It encapsulates data (attributes) and methods (functions) into a single unit. In C++, classes are the core of Object-Oriented Programming (OOP).
+1. Class: A Class is a user-defined data type that acts as a blueprint for creating objects. It encapsulates data (attributes) and methods (functions) into a single unit. In C++, classes are the core of Object-Oriented Programming via c++ (OOP).
 
 2. Object: An Object is an instance of a class. When a class is defined, no memory is allocated; memory is only allocated when an object of that class is created.
 
