@@ -1,5 +1,4 @@
 # Practicals__OOPs__C++
-mnb
 # AIM - 1
 ## Program to implement concept of class and object.
 
